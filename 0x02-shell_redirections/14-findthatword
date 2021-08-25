@@ -1,2 +1,2 @@
 #!/bin/bash
-grep is GPL 
+grep "root" /etc/passwd 
